@@ -1,0 +1,34 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+apscheduler=3.6.3=py310hbe9552e_4
+bzip2=1.0.8=h3422bc3_4
+ca-certificates=2021.10.8=h4653dfc_0
+cachetools=4.2.2=pyhd8ed1ab_0
+certifi=2021.10.8=py310hbe9552e_2
+cffi=1.15.0=py310hf10583b_0
+cryptography=36.0.2=py310hf1846ab_0
+libcxx=13.0.1=h6a5c8ee_0
+libffi=3.4.2=h3422bc3_5
+libzlib=1.2.11=h90dfc92_1014
+ncurses=6.3=hc470f4d_0
+openssl=1.1.1n=h90dfc92_0
+pip=22.0.4=pyhd8ed1ab_0
+pycparser=2.21=pyhd8ed1ab_0
+pysocks=1.7.1=py310hbe9552e_5
+python=3.10.4=hfc7342c_0_cpython
+python-telegram-bot=13.11=pyhd8ed1ab_0
+python_abi=3.10=2_cp310
+pytz=2022.1=pyhd8ed1ab_0
+readline=8.1=hedafd6a_0
+setuptools=61.3.0=py310hbe9552e_0
+six=1.16.0=pyh6c4a22f_0
+sqlite=3.37.1=h7e3ccbd_0
+tk=8.6.12=he1e0b03_0
+tornado=6.1=py310hf8d0d8f_3
+tzdata=2022a=h191b570_0
+tzlocal=2.1=pyh9f0ad1d_0
+ujson=5.1.0=py310h1105856_1
+wheel=0.37.1=pyhd8ed1ab_0
+xz=5.2.5=h642e427_1
+zlib=1.2.11=h90dfc92_1014
